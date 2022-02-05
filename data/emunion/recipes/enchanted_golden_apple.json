@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" T ", "TAT", " T "],
+  "key": {
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

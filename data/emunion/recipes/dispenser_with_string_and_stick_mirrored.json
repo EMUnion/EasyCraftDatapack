@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" SL", "SDL", " SL"],
+  "key": {
+    "L": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "D": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
+}
